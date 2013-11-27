@@ -1,4 +1,25 @@
+.header{
+				margin: 0 auto
+				width: 1200 px
+			}
+
+.wrapper{
+				margin: 0 auto
+				width: 700 px
+}
+
+.socialwrapper{
+				margin: 0 augto
+				width: 400px
+}
+
 .container {
 	width:600px;
 	margin: 0 auto;
 } 
+
+.text {
+	text-align: center;
+	
+	font-family: Helvetica;
+}
