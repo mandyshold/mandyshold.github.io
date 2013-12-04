@@ -1,20 +1,31 @@
 .header{
-				margin: 0 auto
-				width: 1200 px
+				margin: 0 auto;
+				width: 1200px;
 			}
 
 .wrapper{
-				margin: 0 auto
-				width: 700 px
+				margin: 0 auto;
+				width: 700px;
 }
 
 .socialwrapper{
-				margin: 0 augto
-				width: 400px
+				margin: 0 auto;
+				width: 600px;
+}
+
+.socialwrapper img {
+	float: left;
+	width: 200px; 
+	height: auto;
+}
+
+.headshot {
+	display: block;
+	margin: 0 auto;
 }
 
 .container {
-	width:600px;
+	width: 600px;
 	margin: 0 auto;
 } 
 
